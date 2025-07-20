@@ -5,9 +5,7 @@ After seven great years in the public sector, I am now following my passion and 
 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My experience of working on a Service Desk years ago, reinforced to me of my passion for problem solivng technical issues and since then, I have discovered a new found interest in Cyber Security. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as an Analyst. However, I am also open to Service Desk or Support Technician roles to further enhance my technical knowledge.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
