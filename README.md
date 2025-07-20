@@ -1,7 +1,7 @@
 # Hello, I'm Matteo!
 <a href="https://www.linkedin.com/in/matteo-pesci/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+After seven great years in the public sector, I am now following my passion and transitioning into IT and Cyber Security. Check out my portfolio below to see the types of projects I have been working on and the certification I have acheived along the way!
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
