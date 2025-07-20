@@ -1,11 +1,11 @@
 # Hello, I'm Matteo!
 <a href="https://www.linkedin.com/in/matteo-pesci/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-After seven great years in the public sector, I am now following my passion and transitioning into IT and Cyber Security. Check out my portfolio below to see the types of projects I have been working on and the certification I have acheived along the way!
+After seven great years in the public sector, I am now following my passion and transitioning into IT and Cyber Security. Check out my portfolio below to see the types of projects I have been working on and the certifications I have acheived along the way!
 
 
 ## Objective
-My experience of working on a Service Desk years ago, reinforced to me of my passion for problem solivng technical issues and since then, I have discovered a new found interest in Cyber Security. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as an Analyst. However, I am also open to Service Desk or Support Technician roles to further enhance my technical knowledge.
+My experience of working on a Service Desk years ago, reinforced to me of my passion for problem solivng technical issues and since then, I have also discovered a new found interest in Cyber Security. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as an Analyst. However, I am also open to Service Desk or Support Technician roles to further enhance my technical knowledge.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
