@@ -3,7 +3,6 @@
 
 After seven great years in the public sector, I am now following my passion and transitioning into IT and Cyber Security. Check out my portfolio below to see the types of projects I have been working on and the certification I have acheived along the way!
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
