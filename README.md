@@ -12,7 +12,7 @@ My experience of working on a Service Desk years ago, reinforced to me of my pas
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+|           | <a href="https://google.com(https://github.com/MPesci-Portfolio/Home-Lab-Creation)">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -53,5 +53,5 @@ My experience of working on a Service Desk years ago, reinforced to me of my pas
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://google.com(https://github.com/MPesci-Portfolio/Home-Lab-Creation)">Home Lab Creation</a>
 - SOC Automation Project
