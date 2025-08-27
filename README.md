@@ -24,7 +24,7 @@ My experience of working on a Service Desk years ago, reinforced to me of my pas
 
 ### Virtualization & Infrastructure
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Oracle%20VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white" />
 
 ### Operating Systems / Security Platforms
 <div>
