@@ -8,7 +8,6 @@ After seven great years in the public sector, I am now following my passion and 
 My experience of working on a Service Desk years ago, reinforced to me of my passion for problem solivng technical issues and since then, I have also discovered a new found interest in Cyber Security. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as an Analyst. However, I am also open to Service Desk or Support Technician roles to further enhance my technical knowledge.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -20,7 +19,6 @@ My experience of working on a Service Desk years ago, reinforced to me of my pas
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Virtualization & Infrastructure
 <div>
