@@ -20,7 +20,7 @@ My experience of working on a Service Desk years ago, reinforced to me of my pas
 
 ## Tools
 
-### Virtualization & Infrastructure
+### Virtualisation & Infrastructure
 <div>
     <img src="https://img.shields.io/badge/-Oracle%20VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white" />
 
